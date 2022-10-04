@@ -1,0 +1,37 @@
+/* Universal settings */
+body {
+    background-color:antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(66, 76, 86);
+    text-align: center;
+}
+
+h1, h2, h3 {
+    text-shadow: 1px 1px lightslategrey;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.section {
+    border: 1px solid black;
+    margin: 5px;
+}
+
+
+.heading {
+    font-weight: bold;
+    font-family: helvetica;
+}
+
+
+/* Specific sections */
+#skills_section li {
+    list-style: square;
+
+}
+
+#nav_section ul {
+    list-style: none;
+}

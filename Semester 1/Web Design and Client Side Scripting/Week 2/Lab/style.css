@@ -1,0 +1,33 @@
+body {
+	background-color: #333;
+	font-family: courier new;
+}
+
+h2 {
+	color: #01ff00;
+}
+
+ul {
+	color: white;
+}
+
+ol {
+	color: orange;
+}
+
+li {
+	text-shadow: 1.5px 1.5px green;
+}
+
+.headings {
+	font-size: large;
+	color: #01ff00;
+}
+
+.dk_green_font {
+	color: darkgreen;
+}
+
+.orange_font {
+	color: orange;
+}
