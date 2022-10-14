@@ -1,0 +1,49 @@
+/* #wrapper {
+    height: 100%;
+    width: 90%;
+    margin: 0 auto;
+} */
+
+#top-div {
+    width: 100%;
+    height: 300px;
+    background-color: orange;
+    margin: 2px;
+}
+
+#bottom-div {
+    width: 100%;
+    height: 300px;
+    background-color: green;
+    margin: 2px;
+}
+
+.mini-div {
+    border: 2px solid black;
+    width: 20%;
+    height: 90%;
+    color: white;
+    margin: 1px;
+    float: right;
+}
+
+.mini-div2 {
+    border: 2px solid black;
+    width: 25%;
+    height: 90%;
+    color: white;
+    margin: 1px;
+    float: right;
+}
+
+.black-box {
+    background-color: black;
+}
+
+.blue-box {
+    background-color: blue;
+}
+
+.left-align {
+    float: left;
+}
