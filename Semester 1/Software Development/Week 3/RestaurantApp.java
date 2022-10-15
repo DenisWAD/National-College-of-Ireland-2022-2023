@@ -1,7 +1,7 @@
 /*
 Mary has just started working at a local Italian restaurant. At the restaurant, customers are required to leave a 10% tip. All tips for the day are divided up and given to each staff member. As customers finalise their bill, Mary finds it difficult to work out what the tip should be.
 
-Develop an application that allows Mary to enter what the customer has to pay and also how many staff members are working on that day. You should then output the total cost of the customer’s bill that includes a 10% tip and also how much each staff member will get on that day as a tip.
+Develop an application that allows Mary to enter what the customer has to pay and also how many staff members are working on that day. You should then output the total cost of the customerï¿½s bill that includes a 10% tip and also how much each staff member will get on that day as a tip.
 
 Your application should use instantiable classes to separate the calculations from the user input and output.
 
