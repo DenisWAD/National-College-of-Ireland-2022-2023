@@ -27,11 +27,11 @@ public class Subjects {
 			grades += keyboard.nextDouble();
 		}
 	}
-
+    
 	// calculations
 	public void calcGrades() {
 		grades = grades / totalSubjects;
-	}
+}
 
 	// getters
 	public double getGrades() {

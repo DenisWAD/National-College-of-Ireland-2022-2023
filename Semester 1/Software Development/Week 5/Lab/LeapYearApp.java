@@ -21,6 +21,6 @@ public class LeapYearApp {
 		msg = checker.getResult();
 
 		System.out.println(msg);
-
-	}
+    
+}
 }
