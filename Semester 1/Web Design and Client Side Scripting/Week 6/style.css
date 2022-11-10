@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: lemonchiffon;
+}
+/* 
+* {
+    margin: 0 auto;
+
+} */
+
+.row {
+    justify-content: space-between
+}
+
+.border_black {
+    border: 2px black solid;
+}
+
+.footer {
+    background-color: white;
+    color: black;
+}
