@@ -1,0 +1,10 @@
+insert into Department (DepartmentID, StaffTotal, StockTotal, DepartmentName) values (1, 24, 14333, 'Garden');
+insert into Department (DepartmentID, StaffTotal, StockTotal, DepartmentName) values (2, 6, 12079, 'Clothing');
+insert into Department (DepartmentID, StaffTotal, StockTotal, DepartmentName) values (3, 18, 2987, 'Toys');
+insert into Department (DepartmentID, StaffTotal, StockTotal, DepartmentName) values (4, 30, 405, 'Sports');
+insert into Department (DepartmentID, StaffTotal, StockTotal, DepartmentName) values (5, 24, 1417, 'Shoes');
+insert into Department (DepartmentID, StaffTotal, StockTotal, DepartmentName) values (6, 5, 2975, 'Automotive');
+insert into Department (DepartmentID, StaffTotal, StockTotal, DepartmentName) values (7, 17, 10229, 'Jewelry');
+insert into Department (DepartmentID, StaffTotal, StockTotal, DepartmentName) values (8, 18, 14294, 'Clothing');
+insert into Department (DepartmentID, StaffTotal, StockTotal, DepartmentName) values (9, 13, 1017, 'Shoes');
+insert into Department (DepartmentID, StaffTotal, StockTotal, DepartmentName) values (10, 7, 12373, 'Beauty');
